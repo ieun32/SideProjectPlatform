@@ -1,0 +1,2 @@
+# SideProjectPlatform
+java swing project
